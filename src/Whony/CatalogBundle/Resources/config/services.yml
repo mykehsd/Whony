@@ -1,0 +1,7 @@
+parameters:
+#    whony_catalog.example.class: Whony\CatalogBundle\Example
+
+services:
+#    whony_catalog.example:
+#        class: %whony_catalog.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
