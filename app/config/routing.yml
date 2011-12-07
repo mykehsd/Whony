@@ -1,3 +1,7 @@
+WhonyBaseBundle:
+    resource: "@WhonyBaseBundle/Resources/config/routing.yml"
+    prefix:   /
+
 WhonyCatalogBundle:
     resource: "@WhonyCatalogBundle/Resources/config/routing.yml"
     prefix:   /
